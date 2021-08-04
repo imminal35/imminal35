@@ -10,6 +10,7 @@ Here are some ideas to get you started: -->
 <!-- - 🤔 I’m looking for help with  -->
 - 💬 Ask me about DSA , C++ , C , Angular, HTML , CSS , JavaScript , TypeScript.
 - 📫 How to reach me: minal.ahuja83@gmail.com 
+- 
   <a href="https://www.linkedin.com/in/imminal35">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
