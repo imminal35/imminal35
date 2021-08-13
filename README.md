@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with  -->
-- 💬 Ask me about DSA , C++ , C , Angular, HTML , CSS , JavaScript , TypeScript.
+- 💬 Ask me about DSA , C++ , C , C#, Angular, HTML , CSS , JavaScript , TypeScript.
 - 📫 How to reach me: minal.ahuja83@gmail.com 
 
   <a href="https://www.linkedin.com/in/imminal35">
